@@ -1,0 +1,99 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Welcome\Desktop\CK\BITS\Second Year\Sem 2\MuE\Slides\assignment\Q1[1].asc
+Start Time: Sun Mar 23 00:12:24 2025
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 8
+
+
+
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+.step vbias=-20
+
+
+
+.step vbias=-19
+
+
+
+.step vbias=-18
+
+
+
+.step vbias=-17
+
+
+
+.step vbias=-16
+
+
+
+.step vbias=-15
+
+
+
+.step vbias=-14
+
+
+
+.step vbias=-13
+
+
+
+.step vbias=-12
+
+
+
+.step vbias=-11
+
+
+
+.step vbias=-10
+
+
+
+.step vbias=-9
+
+
+
+.step vbias=-8
+
+
+
+.step vbias=-7
+
+
+
+.step vbias=-6
+
+
+
+.step vbias=-5
+
+
+
+.step vbias=-4
+
+
+
+.step vbias=-3
+
+
+
+.step vbias=-2
+
+
+
+.step vbias=-1
+tnom = 27
+temp = 27
+method = modified trap
+.step vbias=0
+Total elapsed time: 0.901 seconds.
+
